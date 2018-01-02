@@ -1,2 +1,2 @@
 # looplab
-Simple bootstrap custom Looplab theme 
+Simple bootstrap custom theme 
